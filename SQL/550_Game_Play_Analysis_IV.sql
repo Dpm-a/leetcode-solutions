@@ -1,4 +1,5 @@
 /*
+[MEDIUM]
 SOLUTION & EXPLANATION:
 https://leetcode.com/problems/game-play-analysis-iv/solutions/5596252/easy-sql-solution-join-exists-coalesce
 */

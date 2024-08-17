@@ -1,4 +1,5 @@
 /*
+[MEDIUM]
 SOLUTION & EXPLANATION:
 https://leetcode.com/problems/product-price-at-a-given-date/solutions/5544497/easiest-union-approach/?source=submission-ac
 */

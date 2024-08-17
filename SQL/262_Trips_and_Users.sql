@@ -1,4 +1,5 @@
 /*
+[MEDIUM]
 SOLUTION & EXPLANATION:
 https://leetcode.com/problems/trips-and-users/solutions/5591262/easy-sql-solution-case
 */

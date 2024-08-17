@@ -1,4 +1,5 @@
 /*
+[MEDIUM]
 SOLUTION & EXPLANATION:
 https://leetcode.com/problems/department-top-three-salaries/solutions/5549154/easy-solution-dense-rank-over
 */

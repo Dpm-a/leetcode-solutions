@@ -1,4 +1,5 @@
 /*
+[MEDIUM]
 SOLUTION & EXPLANATION:
 https://leetcode.com/problems/last-person-to-fit-in-the-bus/solutions/5544606/easy-1-subquery-approac-over
 */
